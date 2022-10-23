@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# All For One Project
+
+# About
+
+This was my first project using MySQL together with Docker, in order to solve challenges to perform queries in the Northwind database.
+
+# Tecnologies
+
+- Docker;
+- SQL;
+
+# How to run the project
+
+- Clone the repository `git clone git@github.com:VictorMattV/mysql_one_for_all.git`;
+- Use mySQL Workbench to open and run the file `northwind.sql`;
+- The files with name "desafio" contains commands to perform queries.
