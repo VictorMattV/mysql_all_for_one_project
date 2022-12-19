@@ -2,7 +2,7 @@
 
 # About
 
-This was my first project using MySQL together with Docker, in order to solve challenges to perform queries in the Northwind database.
+This was my first project using MySQL with Docker, in order to solve challenges to perform queries in the Northwind database.
 
 # Tecnologies
 
