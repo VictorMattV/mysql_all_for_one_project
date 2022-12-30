@@ -1,4 +1,4 @@
-# All For One Project
+# All For One project
 
 # About
 
